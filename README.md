@@ -5,12 +5,12 @@
 **🌱 I’m currently learning**
 
 The fundamental concepts of data analysis\
-More advanced uses of Python, R, Power BI, Tableau and SQL  
-<p>&nbsp;</p>  
+More advanced uses of Python, R, Power BI, Tableau and SQL   
 
 **📫 How to reach me**
 
 ⛓ https://www.linkedin.com/in/kashishsaxena/
+⛓ [s.kashish0123@gmail.com] (mailto:s.kashish0123@gmail.com)
 
 
 <!--
