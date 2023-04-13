@@ -9,7 +9,7 @@ Recently, I volunteered at an early-stage startup as a marketing and analytics t
 **🌱 I’m currently learning**
 
 The fundamental concepts of data analysis\
-More advanced uses of Python, R, Power BI, Tableau and SQL   
+More advanced uses of Python, Excel, Power BI, Tableau and SQL   
 
 **📫 How to reach me**
 
