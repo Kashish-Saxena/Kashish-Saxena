@@ -4,7 +4,7 @@ I am a software engineering graduate from Carleton University, Canada and a Data
 
 **📊 What got me into Data Science & Analytics**
 
-Recently, I volunteered at an early-stage startup as a marketing and analytics team lead, where I experienced how a data-driven approach can lead to increased efficiency and positive results. This made me realize how important and powerful data is in making decisions in an organization and motivated me to become a Data Analyst.
+I love Math and working with Data! Recently, I volunteered at an early-stage startup as a marketing and analytics team lead, where I experienced how a data-driven approach can lead to increased efficiency and positive results. This made me realize how important and powerful data is in making decisions in an organization and motivated me to become a Data Analyst.
 
 **🌱 I’m currently learning**
 
