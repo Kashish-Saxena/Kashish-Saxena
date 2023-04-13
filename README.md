@@ -10,7 +10,7 @@ More advanced uses of Python, R, Power BI, Tableau and SQL
 **📫 How to reach me**
 
 ⛓ https://www.linkedin.com/in/kashishsaxena/ \
-⛓ [s.kashish0123@gmail.com]
+⛓ s.kashish0123@gmail.com
 
 
 <!--
