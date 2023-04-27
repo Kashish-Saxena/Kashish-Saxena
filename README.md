@@ -18,7 +18,7 @@ More advanced uses of Python, Excel, Power BI, Tableau and SQL
 
 **🌐 My Portfolio Website**
 
- https://kashish-saxena.github.io/
+ https://saxena-kashish.github.io/
 
 <!--
 **Kashish-Saxena/Kashish-Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
